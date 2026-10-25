@@ -1,7 +1,13 @@
 {
   "addons": {
     "pinnly@techfuzz.com": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.6.0",
+          "update_link": "https://github.com/techfuzz/pinnly-updates/releases/download/v1.6.0/b0a54f1e269a47d6a241-1.6.0.xpi",
+          "update_hash": "sha256:7f3b20db41a71abd487cd32a16fc9ab6cb050872dfbd7b5dcd68d6c1fd6d37ae"
+        }
+      ]
     }
   }
 }
