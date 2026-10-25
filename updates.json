@@ -3,9 +3,9 @@
     "pinnly@techfuzz.com": {
       "updates": [
         {
-          "version": "1.7.0",
-          "update_link": "https://github.com/techfuzz/pinnly-updates/releases/download/v1.7.0/b0a54f1e269a47d6a241-1.7.0.xpi",
-          "update_hash": "sha256:b99d255d70e0e2bf186dfa12a0366d125dc94a487610f4147545e60c1fa9a699"
+          "version": "1.8.0",
+          "update_link": "https://github.com/techfuzz/pinnly-updates/releases/download/v1.8.0/b0a54f1e269a47d6a241-1.8.0.xpi",
+          "update_hash": "sha256:3234414bf89c5dbe62214d1eafd75fef1801cbd2d53174d0562ce3df5a5b1750"
         }
       ]
     }
